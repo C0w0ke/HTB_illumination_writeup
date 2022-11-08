@@ -24,5 +24,5 @@
 
 ![image](https://user-images.githubusercontent.com/111954330/200497349-05ac9c55-cbf9-4ebb-8dcd-6d16cea882c3.png)
 
-- Finally we got some readable text and I can see the flag <h1>HTB{$_j0G_y0uR_M3m0rY_$}<h1> in it.
+- Finally we got some readable text and I can see the flag <h1>HTB{$_j0G_y0uR_M3m0rY_$}<h1>
 
