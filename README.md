@@ -1,1 +1,1 @@
-# HTB_illumination_writeup
+# HTB_writeup
